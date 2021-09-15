@@ -64,6 +64,3 @@ O utilizador deve ainda poder pedir para serem listadas todas as palavras que co
 - [x] Mostrar contexto de uma palavra
 - [x] Fazer o tratamento de strings para as palavras ficarem sem acentos e cedilhas, passando para maiúsculas/minúsculas
 
-
-
-#

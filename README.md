@@ -1,5 +1,5 @@
 <h1 align="center">
-      <a href="#" alt=" "> PPP_2021_txt_files </a>
+      PPP_2021_txt_files </a>
 </h1>
 
 <h4 align="center">
@@ -12,7 +12,7 @@ Tabela de conteúdos
    * [Sobre o projeto](#-sobre-o-projeto)
      * [Primeira parte](#primeira-parte)
      * [Segunda parte](#segunda-parte)
-   * [Funcionalidades](#funcionalidades)
+   * [Funcionalidades](#gear-funcionalidades)
 
 <!--te-->
 
@@ -56,7 +56,7 @@ O utilizador deve ainda poder pedir para serem listadas todas as palavras que co
 
 ---
 
-## ⚙️ Funcionalidades
+## :gear: Funcionalidades
 
 - [x] Fazer a recolha de todas as palavras e as suas posições e escrevê-las num ficheiro de texto
 - [x] Armazenamenar palavras numa arvore binaria e da sua posição numa lista ligada
